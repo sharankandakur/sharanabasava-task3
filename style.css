@@ -1,0 +1,29 @@
+.head{
+    color: rgb(35, 84, 177) ;
+}
+body{
+    background-color:rgb(120, 120, 116);
+}
+#bglime{
+    background-color: lime;
+}
+h2.head{
+    color:red;
+}
+p{
+    color: white;
+}
+#para{
+    color:green;
+}
+#para span{
+    color: black;
+    font-size: 24px;
+}
+a{
+    color: red;
+}
+
+a:hover{
+    color: blue;
+}
